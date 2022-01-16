@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahreen-Asama
-- 👀 I’m interested in software development, web development and databases etc.
+- 👀 I’m interested in software development, web development and data science etc.
 - 🌱 I’m currently studying BS Software Engineering at PUCIT.
 - 📫 You can contact me at: +923160442336 OR  mahreenmehar202@gmail.com.
 

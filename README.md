@@ -1,8 +1,29 @@
 - 👋 Hi, I’m @Mahreen-Asama
 - 👀 I’m interested in software development, web development and data science etc.
 - 🌱 I’m currently studying BS Software Engineering at PUCIT.
-- 📫 You can contact me at: +923160442336 OR  mahreenmehar202@gmail.com.
+- 📫 You can contact me at: 03160442336 OR  mahreenmehar202@gmail.com.
 
+  <img src="https://komarev.com/ghpvc/?username=Mahreen-Asama&style=flat-square&color=blue" alt=""/>
+
+<!----------------------------------------- languaes portion -->
+<h1> Languages and Tools </h1>
+<div align="center">
+  <img src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/apideck/image/upload/v1579199802/catalog/microsoft-sql-server/icon128x128.png" title="sqlServer" alt="Sql Server" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+
+<!----------------------------------------- contact portion -->
+<h1> Contact me </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
@@ -20,13 +41,12 @@
   <a href="https://twitter.com/AsamaMahreen">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    
-    
   </div>
-  
+ 
 </div>
 
-<
+
+
 <!---
 Mahreen-Asama/Mahreen-Asama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

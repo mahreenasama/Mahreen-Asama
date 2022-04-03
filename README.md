@@ -12,7 +12,7 @@
 - 📫 You can contact me at: mahreenmehar202@gmail.com.
 
 <!----------------------------------------- stats portion -->
-## :calendar: Github Stats :
+## :calendar: GitHub Stats :
 <div align="center">
    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahreen-Asama&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&show_owner=true)

@@ -1,5 +1,4 @@
 ## :woman_technologist: About Me :
-<h1> Hi, This is @Mahreen-Asama 👋 </h1>
 <h2> I'm a Student, Developer and Teacher Assistant! </h2>
 
 - 👀 I’m interested in software and web development
@@ -16,9 +15,10 @@
 ## :calendar: Github Stats :
 <div align="center">
    
-![Mahreen Asama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahreen-Asama&theme=jolly&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahreen-Asama&theme=jolly&show_icons=true&count_private=true&include_all_commits=true&show_owner=true)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Asama&langs_count=10&layout=compact&theme=jolly&align=center&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahreen-Asama&theme=jolly)](https://git.io/streak-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Asama&langs_count=10&layout=compact&theme=jolly&align=center)](https://github.com/anuraghazra/github-readme-stats)
+  
    
    </div>
    
@@ -40,7 +40,7 @@
 </div>
 
 <!----------------------------------------- contact portion -->
-## :handshake: Connect with me:
+## :handshake: Connect with me :
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   

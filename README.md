@@ -10,9 +10,13 @@
 
 <!----------------------------------------- stats portion -->
 ## :calendar: Github Stats :
+<div align="center">
+   
 ![Mahreen Asama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahreen-Asama&theme=great-gatsby&show_icons=true&count_private=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahreen-Asama&theme=dark&background=000000)](https://git.io/streak-stats)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Asama&langs_count=10&layout=compact&theme=vision-friendly-dark&align=center)](https://github.com/anuraghazra/github-readme-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahreen-Asama&theme=dark&background=000000)](https://git.io/streak-stats)
+   
+   </div>
    
 <!----------------------------------------- languaes portion -->
 ## :hammer_and_wrench: Languages and Tools :

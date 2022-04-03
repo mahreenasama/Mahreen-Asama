@@ -3,18 +3,22 @@
 <h2> I'm a Student, Developer and Teacher Assistant! </h2>
 
 - 👀 I’m interested in software and web development
+
 - 👯 I’m looking to collaborate with other content creators
+
 - 🥅 2022 Goals: Learning honestly
+
 - 😻 Fun fact: I love to play voilin / guitar / drums
+
 - 📫 You can contact me at: mahreenmehar202@gmail.com.
 
 <!----------------------------------------- stats portion -->
 ## :calendar: Github Stats :
 <div align="center">
    
-![Mahreen Asama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahreen-Asama&theme=great-gatsby&show_icons=true&count_private=true)
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahreen-Asama&theme=dark&background=000000)](https://git.io/streak-stats)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Asama&langs_count=10&layout=compact&theme=vision-friendly-dark&align=center)](https://github.com/anuraghazra/github-readme-stats)
+![Mahreen Asama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahreen-Asama&theme=jolly&show_icons=true&count_private=true)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahreen-Asama&theme=jolly)](https://git.io/streak-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Asama&langs_count=10&layout=compact&theme=jolly&align=center)](https://github.com/anuraghazra/github-readme-stats)
    
    </div>
    

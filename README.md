@@ -15,9 +15,9 @@
 ## :calendar: Github Stats :
 <div align="center">
    
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahreen-Asama&theme=jolly&show_icons=true&count_private=true&include_all_commits=true&show_owner=true)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Asama&langs_count=10&layout=compact&theme=jolly&align=center&card_width=290&card_height=100)](https://github.com/anuraghazra/github-readme-stats)
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahreen-Asama&theme=jolly)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahreen-Asama&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&show_owner=true)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Asama&langs_count=10&layout=compact&theme=algolia&align=center&card_width=250&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahreen-Asama&theme=algolia)](https://git.io/streak-stats)
   
    
    </div>

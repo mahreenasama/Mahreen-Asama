@@ -1,3 +1,4 @@
+## :woman_technologist: About Me :
 <h1> Hi, This is @Mahreen-Asama 👋 </h1>
 <h2> I'm a Student, Developer and Teacher Assistant! </h2>
 
@@ -7,12 +8,14 @@
 - 😻 Fun fact: I love to play voilin / guitar / drums
 - 📫 You can contact me at: mahreenmehar202@gmail.com.
 
-<img src="https://komarev.com/ghpvc/?username=Mahreen-Asama&style=flat-square&color=blue" alt=""/>
-
-<h1> Github Stats </h1>
-    
+<!----------------------------------------- stats portion -->
+## :calendar: Github Stats :
+![Mahreen Asama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahreen-Asama&theme=great-gatsby&show_icons=true&count_private=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahreen-Asama&theme=dark&background=000000)](https://git.io/streak-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Asama&langs_count=10&layout=compact&theme=vision-friendly-dark&align=center)](https://github.com/anuraghazra/github-readme-stats)
+   
 <!----------------------------------------- languaes portion -->
-<h1> Languages and Tools </h1>
+## :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://www.freeiconspng.com/thumbs/c-logo-icon/c--logo-icon-0.png" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="C#" width="40" height="40"/>&nbsp;
@@ -29,7 +32,7 @@
 </div>
 
 <!----------------------------------------- contact portion -->
-<h1> Connect with me </h1>
+## :handshake: Connect with me:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
@@ -39,7 +42,7 @@
   </a>
     </a>
     <a href="mailto:mahreenmehar202@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/mahreen-asama-2996971b9">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -51,8 +54,8 @@
     <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
+<img src="https://komarev.com/ghpvc/?username=Mahreen-Asama&style=flat-square&color=blue" alt=""/>
 </div>
-
 <!----------------------------------------- Thanks portion -->
 <p id="demo"></p>
    

@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Mahreen-Asama
-- 👀 I’m interested in software development, web development and data science etc.
-- 🌱 I’m currently studying BS Software Engineering at PUCIT.
-- 📫 You can contact me at: 03160442336 OR  mahreenmehar202@gmail.com.
+<h1> 👋 Hi, This is @Mahreen-Asama </h1>
+<h2> I'm a Student, Developer and Teacher Assistant! </h2>
+
+- 👀 I’m interested in software and web development
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Learning honestly
+- 😻 Fun fact: I love to play voilin / guitar / drums
+- 📫 You can contact me at: mahreenmehar202@gmail.com.
+
+
 
   <img src="https://komarev.com/ghpvc/?username=Mahreen-Asama&style=flat-square&color=blue" alt=""/>
 
+<h1> Github Stats </h1>
+    
 <!----------------------------------------- languaes portion -->
 <h1> Languages and Tools </h1>
 <div align="center">
@@ -23,7 +31,7 @@
 </div>
 
 <!----------------------------------------- contact portion -->
-<h1> Contact me </h1>
+<h1> Connect with me </h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
@@ -42,8 +50,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
- 
 </div>
+
+<!----------------------------------------- Thanks portion -->
+<p id="demo"></p>
+   
 
 
 

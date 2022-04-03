@@ -16,7 +16,7 @@
 <div align="center">
    
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahreen-Asama&theme=jolly&show_icons=true&count_private=true&include_all_commits=true&show_owner=true)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Asama&langs_count=10&layout=compact&theme=jolly&align=center&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Asama&langs_count=10&layout=compact&theme=jolly&align=center&card_width=280)](https://github.com/anuraghazra/github-readme-stats)
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahreen-Asama&theme=jolly)](https://git.io/streak-stats)
   
    

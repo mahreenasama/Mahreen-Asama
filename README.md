@@ -65,14 +65,12 @@
 <img src="https://komarev.com/ghpvc/?username=Mahreen-Asama&style=flat-square&color=blue" alt=""/>
 </div>
 <!----------------------------------------- Thanks portion -->
-<p id="demo"></p>
- <typing-effect data-lines='["Welcome to GitHub!", "Let’s begin the adventure"]'>
-      <span data-target="typing-effect.content"></span>
-      <span data-target="typing-effect.cursor">|</span>
-    </typing-effect>
 
+<div align="center">
    
-
+![thank](https://user-images.githubusercontent.com/79749919/161483043-e211f114-26d4-434f-968d-2e70534fc40f.gif)
+   
+   </div>
 
 <!---
 Mahreen-Asama/Mahreen-Asama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

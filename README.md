@@ -71,16 +71,7 @@
       <span data-target="typing-effect.cursor">|</span>
     </typing-effect>
 
-    <script type="module">
-      import 'https://unpkg.com/@github/typing-effect-element@latest/dist/index.js'
-    
-    </script>
    
-   <typing-effect data-lines='["Thanks for Visiting!", "Let’s begin the adventure"]'>
-  <span data-target="typing-effect.content"></span>
-  <span data-target="typing-effect.cursor">|</span>
-</typing-effect>
-
 
 
 <!---

@@ -3,8 +3,7 @@
 
 - 👀 I’m interested in software and web development
 
-- 👯 I’m looking to collaborate with other content creators![output-onlinegiftools](https://user-images.githubusercontent.com/79749919/161492111-4c9b0d4a-52ad-433d-9e28-0e84698f35de.gif)
-
+- 👯 I’m looking to collaborate with other content creators
 
 - 🥅 2022 Goals: Learning honestly
 

@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 🥅 2022 Goals: Learning honestly
-
 - 😻 Fun fact: I love to play voilin / guitar / drums
 
 - 📫 You can contact me at: mahreenmehar202@gmail.com.

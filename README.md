@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Mahreen-Asama">
-    <img src="https://img.shields.io/badge/Github-171515?logo=github&logoColor=white&style=for-the-badge&color=green" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-171515?logo=github&logoColor=white&style=for-the-badge&color=darkgreen" alt="Github Badge"/>
   </a>
   <a href="https://twitter.com/AsamaMahreen">
     <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>

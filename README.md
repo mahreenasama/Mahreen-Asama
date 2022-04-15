@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 😻 Fun fact: I love to play voilin / guitar / drums
-
 - 📫 You can contact me at: mahreenmehar202@gmail.com.
 
 <!----------------------------------------- stats portion -->

@@ -16,7 +16,6 @@
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahreen-Asama&theme=algolia)](https://github.com/Mahreen-Asama)
  
    </div>
-   
 <!----------------------------------------- languaes portion -->
 ## :hammer_and_wrench: Languages and Tools :
 <div align="center">

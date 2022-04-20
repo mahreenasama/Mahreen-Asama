@@ -1,5 +1,5 @@
 ## :woman_technologist: About Me :
-<h2>  </h2>
+<h2> I'm a Student, Developer and Teacher Assistant! </h2>
 
 - 👀 I’m interested in software and web development
 

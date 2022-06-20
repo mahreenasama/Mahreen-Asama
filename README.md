@@ -7,7 +7,7 @@
 
 - 📫 You can contact me at: mahreenmehar202@gmail.com.
 
-<!----------------------------------------- stats portion-->
+<!-----------------------------------------stats portion-->
 ## :calendar: GitHub Stats :
 <div align="center">
 

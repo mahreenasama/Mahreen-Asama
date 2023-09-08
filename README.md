@@ -1,11 +1,11 @@
 ## :woman_technologist: About Me :
-<h2> I'm a Student and Developer! </h2>
+<!-----<h2> I'm a Software Engineer! </h2> -->
 
-- 👀 I’m interested in software and web development
-
-- 👯 I’m looking to collaborate with other content creators
-
-- 📫 You can contact me at: mahreenmehar202@gmail.com.
+- 👋 Hi, I’m Mahreen Asama
+- 👀 I’m interested in Web and API Development
+- 🌱 I’m currently learning Spring Boot Java
+- 💞️ I’m looking to collaborate in open source and GitHub
+- 📫 Reach me at mahreenasamaredmath@gmail.com
 
 <!-----------------------------------------stats portion -->
 ## :calendar: GitHub Stats :

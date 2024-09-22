@@ -46,7 +46,7 @@
     <a href="mailto:mahreenmehar202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/mahreen-asama-2996971b9">
+  <a href="https://www.linkedin.com/in/mahreen-asama-11m">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Mahreen-Asama">

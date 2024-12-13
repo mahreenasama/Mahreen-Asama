@@ -11,9 +11,9 @@
 ## :calendar: GitHub Stats :
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahreen-Asama&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&show_owner=true)](https://github.com/Mahreen-Asama)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Asama&langs_count=10&layout=compact&theme=algolia&align=center&card_width=250&custom_title=Languages)](https://github.com/Mahreen-Asama/github-readme-stats)
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahreen-Asama&theme=algolia)](https://github.com/Mahreen-Asama)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahreenasama&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&show_owner=true)](https://github.com/mahreenasama)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahreenasama&langs_count=10&layout=compact&theme=algolia&align=center&card_width=250&custom_title=Languages)](https://github.com/mahreenasama/github-readme-stats)
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahreenasama&theme=algolia)](https://github.com/mahreenasama)
  
    </div>
    
@@ -46,17 +46,17 @@
     <a href="mailto:mahreenmehar202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/mahreen-asama-11m">
+  <a href="https://www.linkedin.com/in/mahreenasama">
     <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Mahreen-Asama">
+  <a href="https://github.com/mahreenasama">
     <img src="https://img.shields.io/badge/Github-171515?logo=github&logoColor=white&style=for-the-badge&color=black" alt="Github Badge"/>
   </a>
   <a href="https://twitter.com/AsamaMahreen">
     <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
-<img src="https://komarev.com/ghpvc/?username=Mahreen-Asama&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=mahreenasama&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!----------------------------------------- Thanks portion -->

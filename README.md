@@ -3,9 +3,9 @@
 
 - 👋 Hi, I’m Mahreen Asama
 - 👀 I’m interested in Web and API Development
-- 🌱 I’m currently learning Spring Boot Java
+- 🌱 I’m currently learning Java Spring Boot
 - 💞️ I’m looking to collaborate in open source and GitHub
-- 📫 Reach me at mahreenasamaredmath@gmail.com
+- 📫 Reach me at mahreenmehar202@gmail.com
 
 <!-----------------------------------------stats portion -->
 ## :calendar: GitHub Stats :
